@@ -18,6 +18,7 @@ export const poseidonContract=_poseidonContract;
 
 export {default as buildPoseidonReference} from "./src/poseidon_reference.js";
 export {default as buildPoseidonOpt} from "./src/poseidon_opt.js";
+export {default as poseidon} from "./src/poseidon.js";
 
 export {SMT, buildSMT, newMemEmptyTrie} from "./src/smt.js";
 
